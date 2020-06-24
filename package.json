@@ -1,0 +1,9 @@
+{
+  "name": "Realtime-Chat-Application",
+  "version": "1.0.0",
+  "description": "Realtime Chat App with Socket.io, React.js, NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/Louis-jk/Realtime-Chat-Application",
+  "author": "Joonho Kim<lippoint.surf0622@gmail.com>",
+  "license": "MIT"
+}
